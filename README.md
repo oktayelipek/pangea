@@ -1,4 +1,4 @@
-# pangea
+# Tones of Pangea
 
 Pangea is an open-source color system with a unique twist where every token shifts to a relevant hue instead of just a change in luminosity, which produces highly vivid and visually appealing results for UIs, illustrations, print, and more.
 
