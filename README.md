@@ -6,3 +6,11 @@ Pangea is an open-source color system with a unique twist where every token shif
 
 
 <img width="1920" alt="file cover - 1" src="https://github.com/oktayelipek/pangea/assets/1465579/5e3ac1e7-d556-4b55-83da-6c180a7e6816">
+
+| 	header1	 | 	hex	 | 	rgb	 | 
+| 	:-----:	 | 	:-----:	 | 	:-----:	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
+| 	Value1	| 	Value2	| 	Value3	 | 
